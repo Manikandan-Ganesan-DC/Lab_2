@@ -7,4 +7,4 @@ Date : 06/02/2024
 
 ### Description
 
-The model uses a Random Forest Classifier with limited features (area, concavity, radius) for predicting whether as per the given inputs the tumor is benign or malignant with a accuracy of 93.86%
+The model uses a Random Forest Classifier with limited features (area, concavity, radius) for predicting whether as per the given inputs the tumor is benign or malignant with a accuracy of 89%
