@@ -1,4 +1,4 @@
-# Lab 1
+# Lab 2
 
 **Breast Cancer Prediction**  
 Author : Manikandan Ganesan  
